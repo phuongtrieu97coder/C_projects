@@ -32,9 +32,7 @@
  ![image](https://user-images.githubusercontent.com/82598726/181828843-3ba0f2e8-a5dc-4268-b646-5b21898e1139.png) ![image](https://user-images.githubusercontent.com/82598726/181828934-4524165b-801b-44a8-97b4-3966d2eb3c93.png) ![image](https://github.com/phuongtrieu97coder/Readme_Content_Structure/assets/82598726/af834077-9c80-41e0-b713-b1a2734c3acf)
 
 # 3. License: 
-
-![image](https://github.com/phuongtrieu97coder/Java_projects/assets/82598726/306baf5f-cdd2-4dfc-bb2d-eda360b6bae6)
-
+![image](https://github.com/phuongtrieu97coder/C_projects/assets/82598726/213d689f-0abd-421d-8a82-dea315af4dc7)
 
 
 MIT License
