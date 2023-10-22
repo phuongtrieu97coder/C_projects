@@ -15,7 +15,7 @@
 ![Alt text](image.png)
 
 # 2. Output:
-
+An apple costs: $1.49, there are 23 in inventory found in section: F and your customers gave it an average review of 5%!
 # 3. Prompts:
 
 ![Alt text](image-1.png)
