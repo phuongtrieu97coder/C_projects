@@ -1,4 +1,4 @@
-# <img src="https://github.com/phuongtrieu97coder/Readme_Content_Structure/assets/82598726/9eb1b72c-1de1-4949-80bc-70c12d483ece" alt="C" width="40px" height="40px">
+![image](https://github.com/user-attachments/assets/a55bf1e6-fe72-49ce-9cb2-486eee6ac3c3)
 
 ![image](https://github.com/phuongtrieu97coder/C_projects/assets/82598726/c276198a-1475-4fd7-93dc-92280934114c)
 
